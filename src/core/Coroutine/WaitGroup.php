@@ -70,6 +70,6 @@ class WaitGroup
 
     public function count(): int
     {
-        return $this->count;
+        return $this->count;呃呃
     }
 }
